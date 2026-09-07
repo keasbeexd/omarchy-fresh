@@ -6,7 +6,7 @@ Two scripts are provided:
 
 | Script | Target Omarchy Version | Hyprland Config Language |
 |---|---|---|
-| [`dotfiles/omarchy-fresh-quattro.sh`](dotfiles/omarchy-fresh-quattro.sh) | **Quattro 4+** | **Lua** (`hyprland.lua`) |
+| [`dotfiles/omarchy-fresh-quattro.sh`](dotfiles/omarchy-fresh-quattro.sh) | Quattro 4+ | Lua (`hyprland.lua`) |
 | [`dotfiles/omarchy-fresh.sh`](dotfiles/omarchy-fresh.sh) | Pre-Quattro (legacy) | hyprlang (`hyprland.conf`) |
 
 Pick the script that matches the Omarchy release you just installed. They diverge in more than just the Hyprland config format — Quattro replaced Walker with Quickshell, moved `claude-code` to a mise-backed wrapper, renamed packages, added a plugin system, and changed how the NVIDIA driver branch is selected. See [What Changed in Quattro](#what-changed-in-quattro) for the details.
