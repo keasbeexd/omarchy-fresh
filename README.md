@@ -1,5 +1,7 @@
 # omarchy-fresh
 
+> **⚠️ Archived — no longer maintained.** I've moved to a dotfile manager for my setup, so this repo is frozen as-is. Feel free to fork and adapt it, but don't expect fixes or updates here.
+
 Post-install automation scripts for [Omarchy](https://omarchy.com) — an opinionated Arch Linux setup built around Hyprland. Run one of these after a fresh Omarchy install to set up a gaming-ready, themed, and personalized desktop environment in one shot.
 
 Two scripts are provided:
